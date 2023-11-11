@@ -5,7 +5,7 @@ A Construction Co. I did this project because one of my brothers has a construct
 
 Credits for the design goes to XpeedStudio
 
-👉 Live Demo: Live Demo
+👉 Live Demo: https://andrascsorba.github.io/construction-co/
 
 Build with:
 >> Html
