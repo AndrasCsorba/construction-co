@@ -13,4 +13,4 @@ Build with:
 >> Sass / Scss
 >> JS
 
-Thanks your Time! 
+Thank's your Time! 
